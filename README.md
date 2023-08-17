@@ -6,7 +6,6 @@ I'm Saifudin!
 
 I'am a backend developer
 
-📫 How to reach me: saifudinsatu@gmail.com
 
 <!--
 **qsaifudin/qsaifudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
