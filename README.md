@@ -1,4 +1,4 @@
-<img alt="me" src='banner.jpg'/>
+<img alt="me" src='banner.png'/>
 
 <!-- ### Hallo👋
 
